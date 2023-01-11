@@ -2,4 +2,4 @@
 
 Build Multi Stage com a imagem distroless (para deixar com tamanho reduzido)
 
-Link do [Docker Hub](https://hub.docker.com/layers/eddieforstudies/go-challenge/fullcycle-challenge0.1/images/sha256-fe4b1d69b9c5dead71dac50f343172bef1fab6812dd15df3183317ee174c66cf?context=repo)
+Link do [Docker Hub](https://hub.docker.com/layers/eddieforstudies/go-challenge/fullcycle-challenge0.1/images/sha256-358cb85a55f51f5e64e2b9039f05fd133b464eb4243374c379991343319bfaed?context=repo)
